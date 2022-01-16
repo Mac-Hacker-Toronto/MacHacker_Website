@@ -125,6 +125,7 @@
 }
 
 .u-section-2 .u-text-2 {
+  font-style: normal;
   margin: 9px 0 0;
 }
 
@@ -149,6 +150,7 @@
 }
 
 .u-section-2 .u-text-4 {
+  font-style: normal;
   margin: 9px 0 0;
 }
 
@@ -173,6 +175,7 @@
 }
 
 .u-section-2 .u-text-6 {
+  font-style: normal;
   margin: 9px 0 0;
 }
 
@@ -197,6 +200,7 @@
 }
 
 .u-section-2 .u-text-8 {
+  font-style: normal;
   margin: 9px 0 0;
 }
 
@@ -214,32 +218,16 @@
     color: currentcolor !important;
   }
 
-  .u-section-2 .u-text-2 {
-    font-style: normal;
-  }
-
   .u-section-2 .u-icon-2 {
     color: rgb(0, 0, 0) !important;
-  }
-
-  .u-section-2 .u-text-4 {
-    font-style: normal;
   }
 
   .u-section-2 .u-icon-3 {
     color: rgb(0, 0, 0) !important;
   }
 
-  .u-section-2 .u-text-6 {
-    font-style: normal;
-  }
-
   .u-section-2 .u-icon-4 {
     color: rgb(0, 0, 0) !important;
-  }
-
-  .u-section-2 .u-text-8 {
-    font-style: normal;
   }
 }
 
@@ -1248,18 +1236,36 @@
 }
 
 .u-section-7 .u-text-2 {
-  margin: 58px 7px 0;
+  margin: 32px 7px 0;
+}
+
+.u-section-7 .u-social-icons-1 {
+  height: 32px;
+  min-height: 16px;
+  width: 74px;
+  min-width: 42px;
+  margin: 26px auto 0;
+}
+
+.u-section-7 .u-icon-1 {
+  color: rgb(59, 89, 152) !important;
+  height: 100%;
+}
+
+.u-section-7 .u-icon-2 {
+  color: rgb(197, 54, 164) !important;
+  height: 100%;
 }
 
 .u-section-7 .u-btn-1 {
   border-style: none;
   font-weight: 700;
   font-size: 0.875rem;
-  margin: 41px auto 0;
+  margin: 46px auto 0;
 }
 
 .u-section-7 .u-custom-html-1 {
-  margin: 37px auto 0 7px;
+  margin: 0 auto 0 7px;
 }
 
 .u-section-7 .u-image-1 {

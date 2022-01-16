@@ -35670,7 +35670,6 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-footer .u-custom-html-2 {
   margin-bottom: 0;
   margin-top: 31px;
-  height: auto;
   min-height: 36px;
 }
 
@@ -35678,7 +35677,11 @@ a.u-link.u-text-hover-grey-90:hover {
   width: 417px;
   margin: 7px auto 18px;
 }
-
+@media (max-width: 1199px) {
+  .u-footer .u-custom-html-2 {
+    height: auto;
+  }
+}
 
 
 @media (max-width: 575px) {
